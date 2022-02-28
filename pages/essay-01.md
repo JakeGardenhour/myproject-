@@ -6,9 +6,9 @@ permalink: /essay-01.html
 
 {% include feature/nav-menu.html sections="Introduction;Conclusion;Notes" %}
 
-# My Essay Title
+# State of the Union 20th century
 
-## Introduction
+## America at war: War great people men world nation peace hope means time
 
 Here's some sample text, written in Markdown.
 In Markdown, any text with no empty lines between will become a paragraph.
