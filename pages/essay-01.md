@@ -12,7 +12,7 @@ permalink: /essay-01.html
 
 This topic interests me because it shows that war times were highest during Franklin Roosevelt. This shows that world war 2 and the new deal had a big impact on america during this time period. 
 
-Introduction
+**Introduction**
 Leave an empty line between headings and paragraphs.
 
 Font can be *Italic* or **Bold**.
