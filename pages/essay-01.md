@@ -13,8 +13,8 @@ permalink: /essay-01.html
 This topic interests me because it shows that war times were highest during Franklin Roosevelt. This shows that world war 2 and the new deal had a big impact on america during this time period. 
 
 **Introduction**
-Leave an empty line between headings and paragraphs.
 
+My Project will be about american war times based on the president of the time. It is important to understand that the president doesnt always directly reflect the reason for war times but is always a factor. Understanding these men and the time period in which they were in office is essential to the involvment of america during war times. 
 Font can be *Italic* or **Bold**.
 
 Citing your work is important! [^1]
