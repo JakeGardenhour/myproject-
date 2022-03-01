@@ -10,9 +10,9 @@ permalink: /essay-01.html
 
 ## America at war: War great people men world nation peace hope means time
 
-Here's some sample text, written in Markdown.
-In Markdown, any text with no empty lines between will become a paragraph.
+This topic interests me because it shows that war times were highest during Franklin Roosevelt. This shows that world war 2 and the new deal had a big impact on america during this time period. 
 
+Introduction
 Leave an empty line between headings and paragraphs.
 
 Font can be *Italic* or **Bold**.
