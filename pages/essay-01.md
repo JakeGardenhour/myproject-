@@ -17,9 +17,14 @@ This topic interests me because it shows that war times were highest during Fran
 My Project will be about american war times based on the president of the time. It is important to understand that the president doesnt always directly reflect the reason for war times but is always a factor. Understanding these men and the time period in which they were in office is essential to the involvment of america during war times. 
 Font can be *Italic* or **Bold**.
 
-Citing your work is important! [^1]
+https://www.va.gov/opa/publications/factsheets/fs_americas_wars.pdf
 
-Title sections of your essay with headings, by adding a pound sign (`#`) in front of the title:
+Important wars during the timeline presented.
+1.World war 1
+2.World War 2
+3.Korean War
+4.Vietnam War
+5.Desert Storm
 
 # Heading One
 
