@@ -20,11 +20,8 @@ Font can be *Italic* or **Bold**.
 https://www.va.gov/opa/publications/factsheets/fs_americas_wars.pdf
 
 Important wars during the timeline presented.
-1.World war 1
-2.World War 2
-3.Korean War
-4.Vietnam War
-5.Desert Storm
+
+1.World war 1 2.World War 2 3.Korean War 4.Vietnam War 5.Desert Storm
 
 # Heading One
 
