@@ -10,6 +10,8 @@ permalink: /essay-01.html
 
 ## America at war: War great people men world nation peace hope means time
 
+{% include feature/line-chart.html data="sotu-20th-century" topic="America at war" %}
+
 This topic interests me because it shows that war times were highest during Franklin Roosevelt. This shows that world war 2 and the new deal had a big impact on america during this time period. 
 
 **Introduction**
